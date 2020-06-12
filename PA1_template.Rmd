@@ -1,7 +1,7 @@
 ---
 title: 'Reproducible Research: Project 1'
-author: 'Trent Parkinson'
-date: 'Dec 5th, 2017'
+author: 'Dominik'
+date: '12/6/2020'
 output:
   html_document:
     keep_md: true
